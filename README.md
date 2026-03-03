@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Chirag Parmar
 
-<!--
-**chirag-uiux/chirag-uiux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 UI/UX Designer & Frontend Learner  
+🎯 Currently learning Figma & Web Development  
+📍 Ahmedabad, India  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Figma
+- HTML
+- CSS
+- Basic JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Goal
+Building real-world projects & improving design skills.
+
+---
+
+Thanks for visiting my profile ⭐
